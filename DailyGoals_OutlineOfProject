@@ -1,0 +1,22 @@
+Daily goals:
+  Show proof of mastery for as much as possible through completing the Week 1 in-class assignment (won't include attend meetups)
+  Video: record a video of myself doing searching for and locating relevant answers to technical problem that they supplied. Write a paragraph about the error and how I solved it
+
+11:15a-11:24a
+1) Analyze our sample website by breaking down the different components going into it
+2) Determine which language will be used for each part
+
+11:29a-11:55a
+3) Create an outline of the different sections using semantic HTML
+
+
+4) Add the text that we know
+5) Decide what the rest of the content is going to be
+6) Link/add this remaining content
+7) Begin the process of styling using CSS and Flexbox
+  a) When stuck on a problem, film myself searching for and locating relevant answers
+  b) When come across a logic puzzle, use the Polya Technique to solve (take a photo of the solution)
+  c) Trouble shoot and ask for help as much as needed!
+8) Once the styling is complete...
+  a) create a readme.md file
+  b) add all to github in a NEW repository
